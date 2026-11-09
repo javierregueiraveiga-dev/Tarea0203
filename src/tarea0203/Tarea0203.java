@@ -15,7 +15,8 @@ public class Tarea0203 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        system.out.println("Esto es una prueba");
     }
     
 }
-system.out.println("Esto es una prueba");
+
